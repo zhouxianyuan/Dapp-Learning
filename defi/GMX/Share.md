@@ -323,7 +323,7 @@ realisedPnL & = realisedPnL^{before}+ \Delta \times \frac{\delta Size}{Size^{bef
 \end{align*}
 $$
 
-</br>
+
 
 $$
 \begin{align*}
